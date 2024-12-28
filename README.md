@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+🖐;I'm+elmars)](https://git.io/typing-svg)
 
 <!--
 **elmars-hub/elmars-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
