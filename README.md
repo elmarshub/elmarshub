@@ -1,4 +1,6 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&duration=4000&pause=200&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%96%90;I'm+elmars)](https://git.io/typing-svg)
+</p>
 
 <!--
 **elmars-hub/elmars-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
