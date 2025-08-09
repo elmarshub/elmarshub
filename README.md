@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" alt="giphy">
 
 - 🫣 I’m interested in `Web Development`.
 - :technologist: I build `solutions` with `software`, turning `problems` into `possibilities`.
