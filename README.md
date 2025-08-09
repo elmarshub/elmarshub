@@ -1,5 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&duration=4000&pause=200&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%96%90;I'm+elmars)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&duration=4000&pause=200&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%96%90;I'm+elmars" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 <!--
