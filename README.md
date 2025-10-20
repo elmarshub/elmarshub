@@ -9,7 +9,7 @@
 
 - 🫣 I’m interested in `Web Development`.
 - :technologist: I build `solutions` with `software`, turning `problems` into `possibilities`.
-- :student: I’m currently upgrading my `skills` learning `NodeJs`.
+- :student: I’m currently upgrading my `skills` learning `NodeJs` and `React Native`.
 - :handshake: I am available for `collaborations` on Open Source Projects.
 - :nerd_face: Forever `learning`, forever `building`!
 - 📫 How to reach me ... martinsifeanyi247@gmail.com
