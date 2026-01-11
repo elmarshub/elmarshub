@@ -7,7 +7,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="giphy">
 
-- 🫣 I’m interested in `Web Development`.
+- 🫣 I’m interested in `Software Development`.
 - :technologist: I build `solutions` with `software`, turning `problems` into `possibilities`.
 - :student: I’m currently upgrading my `skills` learning `NodeJs` and `React Native`.
 - :handshake: I am available for `collaborations` on Open Source Projects.
