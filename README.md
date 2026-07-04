@@ -8,10 +8,10 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="giphy">
 
 - Frontend & Mobile Engineer.
-- :technologist: Building scalable web and mobile products with `React`, `Next.js`, `React Native` and `TypeScript`.
-- :student: Experienced shipping production fintech, hospitality and AI-powered applications.
-- :handshake: I am available for `collaborations` on Open Source Projects.
-- :nerd_face: Forever `learning`, forever `building`!
+- Building scalable web and mobile products with `React`, `Next.js`, `React Native` and `TypeScript`.
+- Experienced shipping production fintech, hospitality and AI-powered applications.
+- I am available for `collaborations` on Open Source Projects.
+- Forever `learning`, forever `building`!
 - 📫 How to reach me ... martinsifeanyi247@gmail.com
 
 
