@@ -7,7 +7,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="giphy">
 
-- Frontend & Mobile Engineer.
+- Software Developer.
 - Building scalable web and mobile products with `React`, `Next.js`, `React Native` and `TypeScript`.
 - Experienced shipping production fintech, hospitality and AI-powered applications.
 - I am available for `collaborations` on Open Source Projects.
