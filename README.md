@@ -1,32 +1,27 @@
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&duration=4000&pause=200&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%96%90;I'm+elmars" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C98A3B&center=true&vCenter=true&width=460&lines=Hi+there+%F0%9F%91%8B;I'm+elmars;I+build+fintech%2C+hospitality+%26+AI+products" />
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="giphy">
+</div>
 
-- Software Developer.
-- Building scalable products with `React`, `Next.js`, `Nodejs`, `React Native` and `TypeScript`.
-- Experienced shipping production fintech, hospitality, edtech and AI-powered applications.
-- I am available for `collaborations` on Open Source Projects.
-- Forever `learning`, forever `building`!
-- 📫 How to reach me ... martinsifeanyi247@gmail.com
+---
 
+#### `$ whoami`
+Software developer. I build and ship production software end to end
+from first commit to users in the app store. My work spans fintech,
+hospitality, and AI-powered products.
 
+#### `$ stack --list`
+<img src="https://img.shields.io/badge/React-1B222B?style=flat-square&logo=react&logoColor=3FA9A0" />
+<img src="https://img.shields.io/badge/Next.js-1B222B?style=flat-square&logo=nextdotjs&logoColor=3FA9A0" />
+<img src="https://img.shields.io/badge/React_Native-1B222B?style=flat-square&logo=react&logoColor=3FA9A0" />
+<img src="https://img.shields.io/badge/Node.js-1B222B?style=flat-square&logo=nodedotjs&logoColor=C98A3B" />
+<img src="https://img.shields.io/badge/TypeScript-1B222B?style=flat-square&logo=typescript&logoColor=C98A3B" />
 
-<!--
-**elmars-hub/elmars-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### `$ status`
+- building — production apps across fintech, hospitality & AI
+- open to — collaborating on open source
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### `$ contact`
+<a href="mailto:martinsifeanyi247@gmail.com"><img src="https://img.shields.io/badge/email-C98A3B?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://martinelmars.com"><img src="https://img.shields.io/badge/website-1B222B?style=flat-square&logo=googlechrome&logoColor=3FA9A0" /></a>
