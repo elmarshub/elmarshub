@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240" alt="giphy">
+<!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240" alt="giphy"> -->
 
 #### `$ whoami`
 Software developer.I build and ship production software<br/>
