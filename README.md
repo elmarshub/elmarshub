@@ -9,7 +9,7 @@
 
 - Software Developer.
 - Building scalable products with `React`, `Next.js`, `Nodejs`, `React Native` and `TypeScript`.
-- Experienced shipping production fintech, hospitality and AI-powered applications.
+- Experienced shipping production fintech, hospitality, edtech and AI-powered applications.
 - I am available for `collaborations` on Open Source Projects.
 - Forever `learning`, forever `building`!
 - 📫 How to reach me ... martinsifeanyi247@gmail.com
