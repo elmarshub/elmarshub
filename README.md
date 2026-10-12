@@ -5,7 +5,7 @@
 <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240" alt="giphy"> -->
 
 #### `$ whoami`
-`Software developer`. I build and ship production software<br/>
+`Software Engineer`. I build and ship production software<br/>
 end to end, from first commit to users in the app store.<br/>
 My work spans multiple industries, from early-stage ideas to<br/>
 production apps used at scale.
